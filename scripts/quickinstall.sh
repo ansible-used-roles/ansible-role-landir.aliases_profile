@@ -3,7 +3,7 @@
 #
 # Instructions:
 #
-# curl -sL https://raw.githubusercontent.com/https://github.com/ansible-used-roles/ansible-role-landir.aliases_profile/main/scripts/quickinstall.sh | sudo bash
+# curl -sL https://raw.githubusercontent.com/ansible-used-roles/ansible-role-landir.aliases_profile/main/scripts/quickinstall.sh | sudo bash
 #
 #
 
