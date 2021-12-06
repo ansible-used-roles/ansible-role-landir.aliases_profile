@@ -1,0 +1,8 @@
+---
+# tasks file for landir.aliases_profile
+- name: tarefa de shell
+  copy:
+    src: meualias.sh
+    dest: /etc/profile.d/meus.sh
+    mode: '0644'
+    backup: yes

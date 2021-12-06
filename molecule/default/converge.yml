@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  tasks:
+    - name: "Include landir.aliases_profile"
+      include_role:
+        name: "landir.aliases_profile"
