@@ -1,5 +1,7 @@
-# Quickinstall
- curl -sL https://raw.githubusercontent.com/ansible-used-roles/ansible-role-landir.aliases_profile/main/scripts/quickinstall.sh | sudo bash
+# Quick Install
+* Prerequisite: bash sudo curl
+
+``` curl -sL https://raw.githubusercontent.com/ansible-used-roles/ansible-role-landir.aliases_profile/main/scripts/quickinstall.sh | sudo bash ```
 
 ====
 
